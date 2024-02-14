@@ -32,6 +32,12 @@ const Header = () => {
       <li>
         <NavLink href="/posts">Posts</NavLink>
       </li>
+      <li>
+        <NavLink href="/guestbook">GuestBook</NavLink>
+      </li>
+      <li>
+        <NavLink href="/todos">Todos</NavLink>
+      </li>
       <ThemeButton />
     </header>
   );
